@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧐I am currently studying systems analysis and development, I am an engineer<br>🤖I have experience in UX design<br>🐱‍👤I am currently learning to program in C and Java<br>🧠I have knowledge in HTML5, CSS and Python
+🧐I am currently studying systems analysis and development, I am an engineer<br>🤖I have experience in UX design<br>🐱‍👤I am currently learning to program in Laravel, Js and Py<br>🧠I have knowledge in HTML5, CSS and Python
 
 
 ## 🌐 Socials:
@@ -15,14 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brahmsr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brahmsr&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brahmsr&icon=0&color=7)](https://visitcount.itsvg.in)
